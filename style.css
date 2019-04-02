@@ -1,0 +1,76 @@
+* {
+  font-family: 'Raleway', sans-serif;
+}
+
+.giallo {
+  background-color: #f1c40f;
+}
+
+.arancio {
+  background-color: #e67e22;
+}
+
+.bianco {
+  color: white;
+}
+
+.navbar-default .navbar-brand {
+  color: white;
+  font-size: 4rem;
+  font-weight: bolder;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: white;
+}
+
+.w-100 {
+  width: 100%;
+  height: auto;
+}
+
+.z100 {
+  z-index: 1000;
+}
+
+.pd-bottom {
+  padding-bottom: 10rem;
+}
+
+.mg-top {
+  margin-top: 10rem;
+}
+
+.mg-top-3 {
+  margin-top: 3rem;
+}
+
+.no-mg {
+  margin: 0;
+  padding: 0;
+}
+
+.fixed {
+  position: fixed;
+}
+
+.no-border {
+  border: 0;
+  border-radius: 0;
+}
+
+.main-text h1 {
+  font-size: 5rem;
+  font-weight: bolder;
+  color: white;
+}
+
+.giallo .col-md-2 hr,
+.arancio .col-md-2 hr {
+  border: 3px solid white;
+}
+
+.giallo .col-md-4 p,
+.giallo .col-md-12 button {
+  font-size: 2rem;
+}
