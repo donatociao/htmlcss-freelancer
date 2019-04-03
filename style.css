@@ -14,6 +14,9 @@
   color: white;
 }
 
+.nero {
+  color: black;
+}
 .navbar-default .navbar-brand {
   color: white;
   font-size: 4rem;
@@ -35,6 +38,10 @@
 
 .pd-bottom {
   padding-bottom: 10rem;
+}
+
+.pd-top {
+  padding-top: 10rem;
 }
 
 .mg-top {
@@ -73,4 +80,12 @@
 .giallo .col-md-4 p,
 .giallo .col-md-12 button {
   font-size: 2rem;
+}
+
+.pad-1 {
+  padding-top: 1rem;
+}
+
+.fs-18 {
+  font-size: 2.5rem;
 }
